@@ -1,6 +1,6 @@
-[![Rainbow Banner](https://github.com/AzmSurov/AzmSurov/raw/master/Rainbow.gif)](https://github.com/Ducduy-1512)
 
-# 📊 Decoding Data with Duc Duy Nguyen
+
+# 📊 Duc Duy Nguyen
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=500&color=FFFFFF&center=true&vCenter=true&width=800&lines=Business-oriented+Data+Analyst;KPI+Tracking+%7C+Operational+Reporting;SQL+%7C+Python+%7C+Power+BI+%7C+Dashboard+Development)](https://git.io/typing-svg)
 
@@ -58,32 +58,3 @@ Business-oriented **Data Analyst** with experience in KPI tracking, operational 
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 
 ---
-
-## 📁 Project
-
-[![portfolio-data-analytics](https://img.shields.io/badge/📂-portfolio--data--analytics-blue?style=flat)](https://github.com/Ducduy-1512/portfolio-data-analytics)
-
-> A collection of my data analytics and BI projects — from operational reporting to interactive dashboards.
-
----
-
-## 📈 GitHub Stats
-
-| Stats | Top Languages |
-|-------|--------------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ducduy-1512&show_icons=true&theme=dark&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ducduy-1512&layout=compact&theme=dark&hide_border=true) |
-
----
-
-## 🧩 Fun Facts about Me
-
-```json
-{
-  "status": "Open for Networking",
-  "current_role": "Data Analyst @ VieON",
-  "hobbies": ["Data Storytelling", "Dashboard Design", "SQL Optimization"],
-  "favorite_stack": ["SQL", "Power BI", "Python"],
-  "coffee_conversion_rate": "1 cup ➔ 100 rows of clean data",
-  "fun_fact": "Started in Securities, now obsessed with Data Analytics"
-}
-```
