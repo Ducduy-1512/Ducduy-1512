@@ -29,8 +29,8 @@ Business-oriented **Data Analyst** with experience in KPI tracking, operational 
 
 ## 💼 Experience
 
-- 🏢 **Senior Content Operation** @ [VieON](https://vieon.vn/) | *October 2022 - Present*
-- 📋 **Content Operations Executive** @ [VieON](https://vieon.vn/) | *October 2022 - Present*
+- 🏢 **Senior Content Operation** @ [VieON](https://vieon.vn/) | *October 2024 - Present*
+- 📋 **Content Operations Executive** @ [VieON](https://vieon.vn/) | *October 2022 - October 2024*
 - 📈 **Securities Broker** @ [MBS](https://www.mbs.com.vn/) | *February 2022 - April 2022*
 
 ---
